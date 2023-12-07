@@ -1,0 +1,242 @@
+/* RESER **/
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+body{background-color: #F5F5F5;}
+a{text-decoration: none;}
+ul{list-style: none;}
+img{max-width: 100%;}
+
+
+/* CABECALHO **/
+.cabecalho{
+    float: left;
+    width: 100%;
+    padding: 3% 4%;
+}
+.logo{
+    width: 56px;
+    height: 56px;
+    float: left;
+    background: url(../img/logo-mobile.png) center center / 56px no-repeat;
+    font-size: 0;
+}
+.btn-menu{
+    width: 56px;
+    height: 56px;
+    float: right;
+    text-align: center;
+    color: #F5F5F5;
+    border-radius: 56px;
+    cursor: pointer;
+    background: linear-gradient(#ce2e3c, #da6709)
+}
+
+
+
+
+/* MENU **/
+.menu{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgba(0,0,0,0.9);
+    top: 0;
+    left: 0;
+    display: none;
+}
+.btn-close{
+    font-size: 1.5em;
+    color: #fff;
+    float: right;
+    cursor: pointer;
+    margin-right: 5%;
+    margin-top: 10px;
+}
+
+.menu ul{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.menu li{
+    padding: 1.5%;
+}
+
+.menu li a {
+    color: #fff;
+    font-size: 2em;
+    padding: 1.5% 3%;
+}
+.menu li a:hover{
+  border: 1px solid #da6709;
+
+}
+
+
+.container{
+    width:100% ;
+    text-align: center;
+    padding: 2% 3%;
+}
+
+
+/* BANNER **/
+.banner{
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+    text-align: center;
+    padding:  3% 4%;
+    background: url(../img/bg.jpg) no-repeat fixed
+}
+.tittle{
+    width: 100%;
+}
+.tittle h2{
+    font-size: 2.5em;
+    color: #fff;
+    font-weight: 700;
+}
+.tittle h3{
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.buttons{
+    padding: 5px;
+}
+.buttons i{
+    margin-right: 5px;
+}
+.btn-cadastrar{
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    padding: 3px;
+    border-radius: 5px;
+    margin-right: 4px;
+}
+
+.btn-sobre{
+    width: 100%;
+    height: 50px;
+    padding:3px ;
+    border-radius: 5px;
+    margin-top: 5px;
+    background-color: rgba(0,0,0,0.9);
+    color: #fff;
+}
+.btn-sobre:hover{
+    background-color: rgba(0, 0, 0, 0.609);
+
+}
+.btn-cadastrar:hover{
+    background-color: #ffffff8b;
+
+}
+.banner i {
+    float: right;
+    
+}
+
+/* SERVICOS **/
+.servicos{
+    width: 100%;
+    padding: 3% 4%;
+    float: left;
+}
+.servico{
+    width: 100%;
+    text-align: left;
+    background-color: #fff;
+    margin-bottom: 3px;
+    border-radius: 5px 5px 0 0;
+
+
+}
+.servico img{
+    border-radius: 5px 5px 0 0;
+}
+.inner{
+    padding: 7%;
+}
+.inner a {
+    font-size: 1.5em;
+    color: rgba(0, 0, 0, 0.609);
+    font-weight: 700;
+
+}
+.inner h4{
+    font-size: 1.2em;
+    color: rgba(0, 0, 0, 0.609);
+    margin-top: 2%;
+    
+
+}
+.inner p{
+    margin-top: 6%;
+    line-height: 1.5em;
+    color: rgba(0, 0, 0, 0.609);
+}
+
+
+
+/* NEWSLETTER **/
+.newsletter{
+    width:100% ;
+    text-align: center;
+    padding: 2% 3%;
+    float: left;
+    background-color: rgba(0,0,0,0.9);
+
+}
+
+.newsletter h2{
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.newsletter h3{
+    color: #fff;
+    margin-bottom: 4px;
+}
+
+.newsletter form{
+    color: #fff;
+   
+}
+
+.newsletter button{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.newsletter input{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 3px;
+    background-color: #ffffff00;
+    border: 1px solid #ffffffa0;
+   
+}
+
+
+/* NEWSLETTER **/
+.roda-pe{
+    width:100% ;
+    text-align: center;
+    padding: 2%;
+    float: left;
+    color: #fff;
+    background: linear-gradient(#ce2e3c, #da6709);
+}
