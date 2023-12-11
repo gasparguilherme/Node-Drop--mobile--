@@ -15,4 +15,8 @@ Quanto ao projeti em si:
 
 
 
+![screencapture-file-nodedrop](https://github.com/gasparguilherme/Node-Drop--mobile--/assets/139807681/d6600dd9-e9bd-4e35-a614-0d80c323eb37)
+
+
+
 
