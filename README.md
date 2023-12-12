@@ -15,7 +15,7 @@ Quanto ao projeti em si:
 
 
 # Interface:
-![screencapture-file-nodedrop (2)](https://github.com/gasparguilherme/Node-Drop--mobile--/assets/139807681/a51aa40b-6a87-4302-8afd-7d0fa6e2f819)
 
+![screencapture-file-nodedrop (2)](https://github.com/gasparguilherme/Node-Drop--mobile--/assets/139807681/4889c986-b5d2-4ac0-9a7d-bc159669d3a5
 
 
