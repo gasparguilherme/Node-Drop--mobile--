@@ -13,8 +13,7 @@ Quanto ao projeto em si:
 - Uma seção de inscrição com um formulário simples para receber novidades por e-mail.
 - O rodapé contém uma mensagem de direitos autorais e ícones de redes sociais.
 
-- Tecnologias:
-- HTML, CSS, VsCode
+- Tecnologias: HTML, CSS, VsCode
 
 
 # Interface:
